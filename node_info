@@ -1,8 +1,8 @@
-slv_node_runs_runs=no
+slv_node_runs_runs=yes
 slv_node_work_naid=node8520
-slv_node_work_name=fv-az465-608
-slv_node_ipv4_eth0=10.1.0.7
-slv_node_ipv4_ztc2=10.88.90.71
-slv_node_star_time=1678534869
-slv_node_work_time=2023-03-11-[194109]
+slv_node_work_name=fv-az301-548
+slv_node_ipv4_eth0=10.1.0.4
+slv_node_ipv4_ztc2=10.88.90.84
+slv_node_star_time=1678547376
+slv_node_work_time=2023-03-11-[230936]
 slv_node_work_disk=/home/runner/work/mp8520/mp8520
